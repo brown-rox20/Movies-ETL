@@ -133,3 +133,7 @@ dmypy.json
 
 # Resources folder
 Resources/
+
+# csv files
+movies_metadata.csv
+ratings.csv
