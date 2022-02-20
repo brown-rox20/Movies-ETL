@@ -137,3 +137,6 @@ Resources/
 # csv files
 movies_metadata.csv
 ratings.csv
+
+#config.py
+config.py
