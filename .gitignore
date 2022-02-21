@@ -131,8 +131,9 @@ dmypy.json
 # .DS_Store
 .DS_Store
 
-# Resources folder
-Resources/
+# Local folders
+ResourcesIgnore/
+Activities/
 
 # csv files
 movies_metadata.csv
